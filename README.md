@@ -5,8 +5,6 @@
 -  I’m looking to collaborate on projects from other Computer Science students so I can network and in the process gain new skills in my field of study
 - 📫 How to reach me :
                       E-mail: filip.aspic@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: At the moment I am very into self-improvement which means I am striving to be a little bit better every day
 
 <!---
 AspiringTypist/AspiringTypist is a special repository because its `README.md` (this file) appears on your GitHub profile.
